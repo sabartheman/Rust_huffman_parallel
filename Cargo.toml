@@ -1,0 +1,9 @@
+[package]
+name = "huffman_rust"
+version = "0.1.0"
+authors = ["sky"]
+
+[dependencies]
+
+time = "0.1"
+crossbeam = "*"
